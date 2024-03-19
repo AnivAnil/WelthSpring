@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-19T10:35:58 IST" name="Default suite" finished-at="2024-03-19T10:36:53 IST" duration-ms="55193">
+    <groups>
+    </groups>
+    <test started-at="2024-03-19T10:35:58 IST" name="Default test" finished-at="2024-03-19T10:36:53 IST" duration-ms="55193">
+      <class name="WelthSpring.NewTest">
+        <test-method is-config="true" signature="browserlaunch()[pri:0, instance:WelthSpring.NewTest@52719fb6]" started-at="2024-03-19T10:35:58 IST" name="browserlaunch" finished-at="2024-03-19T10:36:01 IST" duration-ms="2917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="loginpage()[pri:0, instance:WelthSpring.NewTest@52719fb6]" started-at="2024-03-19T10:36:01 IST" name="loginpage" finished-at="2024-03-19T10:36:26 IST" duration-ms="25360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method is-config="true" signature="browserclose()[pri:0, instance:WelthSpring.NewTest@52719fb6]" started-at="2024-03-19T10:36:26 IST" name="browserclose" finished-at="2024-03-19T10:36:26 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="browserlaunch()[pri:0, instance:WelthSpring.NewTest@52719fb6]" started-at="2024-03-19T10:36:26 IST" name="browserlaunch" finished-at="2024-03-19T10:36:27 IST" duration-ms="1270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="loginpage2()[pri:0, instance:WelthSpring.NewTest@52719fb6]" started-at="2024-03-19T10:36:27 IST" name="loginpage2" finished-at="2024-03-19T10:36:52 IST" duration-ms="24956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage2 -->
+        <test-method is-config="true" signature="browserclose()[pri:0, instance:WelthSpring.NewTest@52719fb6]" started-at="2024-03-19T10:36:52 IST" name="browserclose" finished-at="2024-03-19T10:36:53 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- WelthSpring.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
