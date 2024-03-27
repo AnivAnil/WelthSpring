@@ -6,7 +6,10 @@
       <class name="WelthSpring.NewTest">
         <methods>
           <include name="browserlaunch"/>
-          <include name="loginpage2"/>
+          <include name="loginpage21"/>
+          <include name="loginpage10"/>
+          <include name="browserclose"/>
+          <include name="loginpage20"/>
         </methods>
       </class> <!-- WelthSpring.NewTest -->
     </classes>
